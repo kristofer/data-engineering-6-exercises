@@ -2,6 +2,33 @@
 
 There are two labs in here, one for this weekend, and one to use while working on the Spark Week book.
 
+## Note Bene
+
+That's latin-ish for **pay attention now**.
+
+And I realise I _tend to write these READMEs and you never read them carefully._ 
+**BUT** there is a lot of important clarifying detail in all the READMEs in this repo. 
+You need to **READ them ALL**. 
+Yes, there is more than one README in this repo, and you gotta read them all.
+
+### How to work on the problems.
+
+You will need two things to work effectively on most all
+of these problems. 
+- `Docker`
+- `docker-compose`
+
+_if you haven't installed them yet, do so using Brew._
+
+All the tools and technologies you need will be packaged
+  into the `dockerfile` for each exercise.
+
+For each exercise you will need to `cd` into that folder and
+run the `docker build` command, that command will be listed in
+the `README` for each exercise, follow those instructions.
+
+_Read those last 4 paragraphs again. I don't think you internalized them._
+
 ## Weekend6
 
 See [README for Weekend6 exercises.](data-engineering-Weekend6/README.md)
