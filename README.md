@@ -62,3 +62,5 @@ To begin your Spark journey:
 Apache Spark isn’t just a tool—it’s a gateway to solving big data challenges with speed, flexibility, and intelligence.
 
 Check out the [Spark Study Guide](SparkStudyGuide.md) for more concise concept descriptions with Spark.
+
+_materials in this repo where shamelessly adapted from https://github.com/danielbeach/data-engineering-practice_
