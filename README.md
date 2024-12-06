@@ -12,6 +12,13 @@ Do this one over the weekend.
 See [README for Spark Projects](data-engineering-Week7SparkProj/README.md)
 Save this one as part of next week's Spark Week work.
 
+## Postgres
+
+If you do not already have `postgres` on your mac, you can download [Postgres.app - The easiest way to get started with PostgreSQL on the Mac](https://postgresapp.com).
+**Yo! PLEASE read and perform the tasks on that Postgres app front page. Especially steps 1, 2, and 3!!**
+_if you don't you can count on being teased mercilessly about not RTFMing_ Huh? Don't know what **RTFM** means? _Look it up._
+
+## Spark 
 
 ### A Beginner’s Introduction to Apache Spark: The Why, What, and How
 
