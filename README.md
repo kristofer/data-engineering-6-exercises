@@ -38,6 +38,7 @@ Do this one over the weekend.
 
 See [README for Spark Projects](data-engineering-Week7SparkProj/README.md)
 Save this one as part of next week's Spark Week work.
+And no, this is **not** the only stuff you'll be handling next week in Week 7.
 
 ## Postgres
 
